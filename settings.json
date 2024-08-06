@@ -1,0 +1,35 @@
+{
+  "files.autoSave": "afterDelay",
+  "editor.defaultFormatter": "vscode.typescript-language-features",
+  "explorer.confirmDelete": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.fontSize": 16,
+  "editor.formatOnSave": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "workbench.colorTheme": "GitHub Dark Default",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.inlineSuggest.suppressSuggestions": true,
+  "explorer.confirmDragAndDrop": false,
+  "editor.minimap.enabled": false,
+  "editor.wordWrap": "wordWrapColumn",
+
+  "workbench.editor.showTabs": "none",
+  "editor.lightbulb.enabled": "off",
+  "workbench.statusBar.visible": false,
+  "workbench.activityBar.location": "hidden",
+  "window.customTitleBarVisibility": "auto",
+  "editor.lineNumbers": "off",
+  "breadcrumbs.enabled": false,
+
+  // add custom CSS && JS
+  "vscode_custom_css.imports": [
+    // change file path
+    "file:///home/parth/code/vscode/vscode-configs/styling.css"
+  ],
+
+  "editor.stickyScroll.scrollWithEditor": false,
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "glassit.alpha": 220
+}
